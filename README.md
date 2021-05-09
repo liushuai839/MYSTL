@@ -40,6 +40,6 @@ g++ 7.5.0
 
 下面测试的是项目实现的容器添加大量元素和c++ 标准库中容器的时间对比
 
-https://github.com/liushuai839/MYSTL/blob/master/image-20210509094812942.png
-https://github.com/liushuai839/MYSTL/blob/master/image-20210509094850793.png
-https://github.com/liushuai839/MYSTL/blob/master/image-20210509094927445.png
+![vector测试结果](https://github.com/liushuai839/MYSTL/blob/master/image-20210509094812942.png)
+![deque测试结果](https://github.com/liushuai839/MYSTL/blob/master/image-20210509094850793.png)
+![map测试结果](https://github.com/liushuai839/MYSTL/blob/master/image-20210509094927445.png)

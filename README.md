@@ -26,7 +26,7 @@ g++ 7.5.0
 
 (3) **常规算法** : adjacent_find,  all_of,  any_of, binary_search, count, count_if, equal_range, find, find_first_of, find_if, find_if_not, for_each, generate_n,
                                      includes,  //is_heap,  is_sorted,lower_bound,  max_elememt, median, min_elememt,  is_permutation, // next_permutation, none_of,
-                                      nth_element, partial_sort, partial_sort_copy, partition, partition_copy,  // prev_permutation, random_shuffle, remove, remove_copy,   				    
+                                      nth_element, partial_sort, partial_sort_copy, partition, partition_copy,  // prev_permutation, random_shuffle, remove, remove_copy,
                                      remove_copy_if, remove_if, replace, replace_copy, replace_copy_if, replace_if,  reverse,  reverse_copy, search, search_n, sort,  swap_ranges,
   					                          transform, unique, unique_copy, upper_bound
 
